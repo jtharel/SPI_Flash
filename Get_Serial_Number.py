@@ -1,4 +1,4 @@
-#this aids in acquring the serial number used in the SPI_flash.py script here. Will also confirm your SOIC clip is attached properly and can be used to extract the flash contents.
+#this aids in acquring the serial number used in the spi_flash.py script here. Will also confirm your SOIC clip is attached properly and can be used to extract the flash contents.
 
 from pyftdi.ftdi import Ftdi
 
